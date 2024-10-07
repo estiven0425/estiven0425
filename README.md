@@ -12,7 +12,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
@@ -28,15 +28,19 @@
 <!--Intro start-->
 - Actualmente trabajando en **SHAIR, un proyecto hecho en REACT y EXPRESS**
 
-- Estudiante próximo a graduarme de nivel tecnológico en **Análisis y desarrollo de software**
+- Estudiante en etapa práctica de la tecnología en **análisis y desarrollo de software**
 
+- Experiencia en arquitectura modular
+  
 - Gran interes en el **frontend**
 
 - Conocimientos adquiridos del **SENA** y [W3School](https://www.w3profile.com/estiven0425)
 
 - Conocimientos fuertes en **HTML, CSS, JS, PHP, REACT, EXPRESS y MySQL**
 
-- Dirección de contacto: **estivenmoto6@gmail.com**
+- Dirección de contacto:
+  - **estivenmoto6@gmail.com**
+  - **+57 324 2018817**
 <!--Intro end-->
 
 
