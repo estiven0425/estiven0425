@@ -26,13 +26,15 @@
 
 
 <!--Intro start-->
-- Actualmente trabajando en **SHAIR, un proyecto hecho en REACT y EXPRESS**
+- Experiencia desarrollando un noticiero llamado **SHAIR, un proyecto hecho en REACT y EXPRESS**
 
 - Estudiante en etapa práctica de la tecnología en **análisis y desarrollo de software**
 
 - Experiencia en arquitectura modular
   
 - Gran interes en el **frontend**
+
+- Capacidad en **Análisis de datos, bases de datos y desarrollo tanto backend como frontend (fullstack)**
 
 - Conocimientos adquiridos del **SENA** y [W3School](https://www.w3profile.com/estiven0425)
 
