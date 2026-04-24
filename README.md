@@ -26,23 +26,20 @@
 
 
 <!--Intro start-->
-- Experiencia desarrollando un noticiero llamado **SHAIR, un proyecto hecho en REACT y EXPRESS**
+Soy un Desarrollador Fullstack apasionado por la ingeniería de software y la resolución de problemas complejos. Mi enfoque principal es construir aplicaciones escalables y eficientes, combinando la agilidad de los entornos web modernos con la robustez del software empresarial.
 
-- Estudiante en etapa práctica de la tecnología en **análisis y desarrollo de software**
+**Talento estrella en .NET:** He descubierto una gran afinidad por el ecosistema .NET (C#), donde me especializo en crear arquitecturas sólidas bajo el patrón MVVM y el desarrollo de aplicaciones de escritorio con backend y frontend de alto nivel.
 
-- Experiencia en arquitectura modular
-  
-- Gran interes en el **frontend**
+**Capacidad de adaptación extrema:** Mi trayectoria demuestra una curva de aprendizaje muy agresiva; logré dominar tecnologías corporativas como PL/SQL y Oracle APEX en tiempo récord para integrarme a entornos de desarrollo de misión crítica.
 
-- Capacidad en **Análisis de datos, bases de datos y desarrollo tanto backend como frontend (fullstack)**
+**Experiencia Fullstack Real:** He liderado el ciclo de vida completo de aplicaciones (SDLC), desde el análisis de requerimientos y diseño de bases de datos hasta el despliegue final, trabajando tanto de forma autónoma como en equipos bajo metodologías Scrum.
 
-- Conocimientos adquiridos del **SENA** y [W3School](https://www.w3profile.com/estiven0425)
-
-- Conocimientos fuertes en **HTML, CSS, JS, PHP, REACT, EXPRESS y MySQL**
+**Formación:** Tecnólogo en Análisis y Desarrollo de Software (SENA), con un enfoque constante en la arquitectura de software y las buenas prácticas (Clean Code).
 
 - Dirección de contacto:
   - **estivenmoto6@gmail.com**
   - **+57 324 2018817**
+  - **Portafolio:** [estiven0425.vercel.app](https://estiven0425.vercel.app/)
 <!--Intro end-->
 
 
@@ -90,7 +87,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,express,git,github,html,js,mysql,nodejs,php,react,sass" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,php,mysql,sqlite,react,express,dotnet,sass,sequelize,git,github,docker,blender,figma,vite" />
   </a>
 </p>
 
