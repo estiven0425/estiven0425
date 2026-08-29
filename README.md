@@ -96,7 +96,7 @@ Soy un Desarrollador Fullstack apasionado por la ingeniería de software y la re
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">¡Conéctate con migo!</h2></summary>
+    <summary><h2 style="display: inline-block">¡Conéctate conmigo!</h2></summary>
   </ul>
 </div>
 
